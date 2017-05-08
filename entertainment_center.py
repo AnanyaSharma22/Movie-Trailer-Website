@@ -18,8 +18,6 @@ predestination = media.Movie("Predestination",
                             "http://t3.gstatic.com/images?q=tbn:ANd9GcTp-yv1Vq_eoOYzyQPRghPbWKAmT3kAP-hGgI-9B8exr5R3uhbU",
                             "https://www.youtube.com/watch?v=UVOpfpYijHA")
 
-#print(inception.storyline)
-#inception.show_trailer()
 
 arrival = media.Movie("Arrival",
                       "Linguistics professor Louise Banks (Amy Adams) leads an elite team of investigators when gigantic spaceships touch down in 12 locations around the world.",
