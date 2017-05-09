@@ -12,7 +12,7 @@ A simple movie trailer website project.
 
 **Quickstart**
 
-After downloading the project files, a movie trailer page can be created by importing media.py and fresh_tomatoes.py at the start of your Python script. Then create idividual Movie objects by calling  media.Movie() and supplying it with four arguments which are  movie_title, movie_storyline, poster_image, and trailer_youtube. Lastly, to generate the movie trailers page, call fresh_tomatoes.open_movies_page() and supply it with an array of the movie objects you created.
+After downloading the project files, a movie trailer page can be created by importing [media.py](https://github.com/AnanyaSharma22/Movie-Trailer-Website/blob/master/media.py) and [fresh_tomatoes.py](https://github.com/AnanyaSharma22/Movie-Trailer-Website/blob/master/fresh_tomatoes.py) at the start of your Python script. Then create idividual Movie objects by calling  media.Movie() and supplying it with four arguments which are  movie_title, movie_storyline, poster_image, and trailer_youtube. Lastly, to generate the movie trailers page, call fresh_tomatoes.open_movies_page() and supply it with an array of the movie objects you created.
 
 **Documentation**
 
