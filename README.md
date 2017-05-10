@@ -33,7 +33,14 @@ fresh_tomatoes.open_movies_page([Predestination])
 ```
 A  more detailed example with multiple movie objects, can be found in [entertainment_center.py](https://github.com/AnanyaSharma22/Movie-Trailer-Website/blob/master/entertainment_center.py).
 
-After entertainment_center.py file is made, then you can finally run your movie trailer website with file **fresh_tomatoes.html**.
+
+# Steps required to successfully run the application.
+
+1 - Open **entertainment_center.py**.
+
+2 - From the **menu**, choose **Run** and then **Run module**. If you use **windows**, just press **F5**.
+
+3 - A file named **fresh_tomatoes.html** will be opened in your default **web browser**.
 
 # Documentation
 
